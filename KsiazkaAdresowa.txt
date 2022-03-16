@@ -1,0 +1,6 @@
+2|1|i|i|i|i|i|tak|
+4|2|u|u|u|u|u|tak|
+5|2|x|x|x|x|x|nie|
+7|3|bartek|babinicz|607865049|bartek.babinicz@hotmail.com|Mickiewicza 12a 60-234 Poznan|nie|
+8|3|cecylia|cymbal|606 707 808|cecylia@wp.pl|c|nie|
+9|3|helena|wisniewska|606 707 808|helena@igrzyska.pl|Sieroca 12/21 45-534 Bydgoszcz|tak|
